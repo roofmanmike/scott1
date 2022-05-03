@@ -10,6 +10,19 @@
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+.ltYel{
+  background-color: lightYellow;
+}
+#exampleInputEmail1{
+  border-radius: 10px;
+}
+#exampleFormControlTextarea1{
+  border-radius: 10px;
+}
+#btnContact{
+  border-radius: 10px;
+  background-color: darkGreen;
+}
  .div_glow {
    min-width: 100%;
    min-height: 100%
