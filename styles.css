@@ -22,6 +22,7 @@
 #btnContact{
   border-radius: 10px;
   background-color: darkGreen;
+  padding: 10px;
 }
  .div_glow {
    min-width: 100%;
