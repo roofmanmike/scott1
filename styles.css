@@ -58,6 +58,12 @@
   color: white;
   text-shadow: 2px 2px red;
 }
+.fontFondamento{
+  font-family: Molle;
+  font-size: 16vh;
+  color: #31ff00;
+
+}
 #footer_dark{
   background-color: grey;
 }
