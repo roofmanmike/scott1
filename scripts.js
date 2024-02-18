@@ -26,8 +26,7 @@ window.addEventListener('DOMContentLoaded', () => {
 function howFeel() {
     
     var x = document.getElementById("in1").value;
-    alert(x);
-    console.log(x);
+    
     // $("body").css("background-color", "yellow");
     if (x==1) {
         alert("Initiating 1st protocol");
